@@ -1,7 +1,7 @@
 
 <h1>
   <br>
-  Multilingual
+  Multilingual GAN Vocoder
   <br>
 </h1>
 
